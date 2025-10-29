@@ -1,6 +1,6 @@
 # customerRewards1
 CustomerRewards program
- Reward Points Calculation Logic
+📌 Reward Points Calculation Logic
 For every $1 spent over $100 → 2 points
 For every $1 spent between $50–100 → 1 point
 For transactions below $50 → 0 points
@@ -166,3 +166,6 @@ Response (rewardsByDate_response.json)
 }
 🧪 Running Tests
 mvn test
+
+
+
